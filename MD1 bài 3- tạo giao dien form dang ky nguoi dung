@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="rrr.html">
+    <label><b>Họ và tên:</b></label>
+    <p><input type="text"></p>
+    <label ><b>Giới tính:</b></label>
+    <p><input type="text"></p>
+    <label><b>Số điện thoại:</b></label>
+    <p><input type="text"></p>
+    <label ><b>Giới tính:</b></label>
+    <input type="radio" name="gt">Nam
+    <input type="radio"name="gt">Nữ <br>
+    <input type="submit"value="Đăng ký">
+</form>
+
+
+</body>
+</html>
